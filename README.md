@@ -2,7 +2,7 @@
 Implemented text analysis using machine learning models to classify movie review sentiments as positive or negative.
 
 ### Data Source:- 
-Used in-build movie review data from nltk librery.
+Used in-build movie review data from nltk library.
 Data contains 1000 positive & 1000 negative reviews.
 
 
